@@ -31,6 +31,7 @@ File with R code "run_analysis.R" performs the 5 following steps (in accordance 
     5.2 Writing second tidy data set in txt file
 
 The code assumes all the data is present in the same folder, un-compressed and without names altered.
+
 About variables:
 
     x_train, y_train, x_test, y_test, subject_train and subject_test contain the data from the downloaded files.
